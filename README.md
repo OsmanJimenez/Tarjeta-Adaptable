@@ -18,3 +18,12 @@ Tarjeta responsive con la capacidad de adaptarse a diversos dispositivos o resol
 
  ## Licencia
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
+## 👤 Autor
+
+**Osman Armando Jiménez Cortés**  
+[Portafolio profesional](https://osmanjimenez.com/)  
+[Perfil de GitHub](https://github.com/OsmanJimenez)
+
+Ingeniero de Sistemas y Desarrollador Full Stack especializado en desarrollo web y aplicaciones móviles.
